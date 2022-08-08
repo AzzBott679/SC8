@@ -9,6 +9,6 @@ Anti Dilay
 # Sc No enc?
 Buy Chat me 081511480762
 
-#MBY•OFFICIAL
+# MBY•OFFICIAL
 
 Jangan Lupa Subscribe ya 
