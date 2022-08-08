@@ -6,7 +6,7 @@ Anti Banned
 On 24 Jam
 Anti Dilay
 
-#Sc No enc?
+# Sc No enc?
 Buy Chat me 081511480762
 
 #MBY•OFFICIAL
