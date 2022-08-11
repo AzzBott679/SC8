@@ -47,7 +47,7 @@ const defaultMenu = {
 ╟📅 *𝐓𝐚𝐧𝐠𝐠𝐚𝐥:* %date
 ╟🕔 *𝐔𝐩𝐭𝐢𝐦𝐞:* %uptime (%muptime)
 ╟👨‍ *𝐒𝐚𝐫𝐚𝐧𝐠𝐁𝐨𝐭:*
-╟https://github.com/AzzBott679
+╟https://github.com/Dika-MD
 ╚»★★ミ✧･ﾟ: ✧ﾟ･:
 
 
@@ -59,7 +59,7 @@ const defaultMenu = {
   body: '│ ○ %cmd %islimit %isPremium',
   footer: '▣────────────⬣\n',
   after: `*Recode by*
-*YahyaGanzz* | %version
+*DikaOfc* | %version
 ${'```%npmdesc```'}
 `,
 }
@@ -185,7 +185,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
              {
              callButton: {
                displayText: 'Hp Owner',
-               PhoneNumber: '0815-1148-0872'
+               PhoneNumber: '0882-2367-4569'
              }
 
            },
