@@ -1,4 +1,4 @@
-# AzzBot-MD
+# Xynn-MD
 
 Work Heroku
 No Enc 98%
@@ -7,8 +7,8 @@ On 24 Jam
 Anti Dilay
 
 # Sc No enc?
-Buy Chat me 081511480762
+Buy Chat me 088223674569
 
-# MBY•OFFICIAL
+# DikaOfc
 
-Jangan Lupa Subscribe ya 
+
