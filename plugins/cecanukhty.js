@@ -6,7 +6,7 @@ fetch('https://raw.githubusercontent.com/arivpn/dbase/master/kpop/ukhty.txt')
 let handler = async (m, { conn }) => {
     let img = zzz[Math.floor(Math.random() * zzz.length)]
     if (!img) throw img
-    await conn.sendFile(m.chat, img, '', '© nih Cecan Ukhtynya jangan lupa subscribe channel https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g👍', m, 0, { thumbnail: await (await fetch(img)).buffer() })
+    await conn.sendFile(m.chat, img, '', '© nih Cecan nya by Xynn>///<', m, 0, { thumbnail: await (await fetch(img)).buffer() })
 }
 handler.help = ['cecanukhty']
 handler.tags = ['asupan']
